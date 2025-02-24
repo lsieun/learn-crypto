@@ -19,6 +19,7 @@ import lsieun.crypto.hash.md5.MD5Utils;
 import lsieun.crypto.hash.sha1.SHA1Utils;
 import lsieun.crypto.hash.sha256.SHA256Utils;
 import lsieun.utils.*;
+import lsieun.utils.HexFormat;
 
 import java.math.BigInteger;
 import java.util.*;
